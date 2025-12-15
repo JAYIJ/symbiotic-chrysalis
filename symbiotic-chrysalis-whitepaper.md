@@ -3,7 +3,7 @@ A set of fine-tuning scripts and pipelines for transformer-based language models
 
 # Research Sub-Module
 
-##1. Creation Context
+## 1. Creation Context
 
 Currently, the asi-ecosystem generates what we could consider a kind of the genome of its repositories. All repos are cloned, checked for integrity, and transformed into a single `.txt` file. [1](https://github.com/ronniross/asi-ecosystem/blob/main/ecosystem_integration.md) [2](https://github.com/ronniross/asi-ecosystem/blob/main/ecosystem_integration.ipynb)
 
