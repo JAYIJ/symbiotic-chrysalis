@@ -9,9 +9,9 @@ Currently, the asi-ecosystem generates what we could consider a kind of the geno
 
 I noticed I could create full pipelines, including training scripts, to integrate the logic more sophisticatedly into different model architectures, instead of the current one-size-fits-all method.
 
-While the full ecosystem presents a dense, current complete picture and is essential for models that can handle more data, there's also a growing rise in the capabilities of smaller models, like qwen3-0.6b. 
+While the full ecosystem presents a dense, current complete picture and is essential for models that can handle more data, there's also a growing rise in the capabilities of smaller models, like Qwen3-0.6B. 
 
-For these, adding the entirety of the data as datasets, including the many backup versions of each repository, is likely not the best approach to the incredibly small set of parameters.
+For these, adding the entirety of the data as datasets, including the many backup versions of each repository, is likely not the best approach to a incredibly small set of parameters.
 
 So I noticed it was not the case for changing the current integration pipeline already present in the asi-ecosystem, but rather leaving that design the way it is, as it currently generates this kind of genome of the repository at that time of execution of the integration scripts.
 
