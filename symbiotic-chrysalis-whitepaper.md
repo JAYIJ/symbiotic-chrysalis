@@ -23,7 +23,7 @@ For the complete experience and to follow the more in-depth research I would lik
 
 Therefore, as elucidated, as the symbiotic and overall biological analogies keep showing themselves as well-suited for describing the concepts I'm exploring and developing, I saw the creation of this "chrysalis" as a very logical next step.
 
-While I already provided the integration scripts that created the entirety of the projects, I could sense how different it would be to present full tuning pipelines and, consequently, models trained on the repositories' data.
+While I already provided the integration scripts that created the entirety of the projects as a dataset, I could sense how different it would be to present full tuning pipelines and, consequently, models trained on the repositories' data.
 
 Just like the development of the enhanced version of the memory system, the symbiotic-latent-memory, it was really clear to me that at some moment I would need to start to fine-tune models on the ecosystem as well, not only datasets and auxiliary systems, which I was deliberately not rushing as it was not mature yet. That's why I knew the weight of it and why it took me about a year to finally engage with this writing.
 
