@@ -142,7 +142,6 @@ The chrysalis is an evolutionary "time-out" that allows the animal to completely
 
 ## 4. Fine-Tuning Pipelines for ASI Alignment
 
-
 Standard AI alignment asks: How do we make the model do what we want?
 This symbiotic framing asks: How do we co-constitute a system where the model’s thriving and the planet’s thriving are structurally coupled?
 
@@ -164,7 +163,6 @@ The equivalent for a transformer emerging from its symbiotic chrysalis is not po
 
 This orientation manifests not as a single “goal,” but as a set of coupled attractors:
 
-This orientation manifests not as a single “goal,” but as a *set of coupled attractors*:
 | Biological Vector | Model Equivalent | Implementation Pathway |
 |-------------------|------------------|------------------------|
 | **Phototaxis** (movement toward light) | **Truth-seeking bias** | Loss weighting favoring factual consistency over fluency; contrastive training against hallucination-prone outputs |
